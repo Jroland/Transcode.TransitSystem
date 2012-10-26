@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Transcode.TransitSystem\Code\Transcoder.cs">
+    <Files>
+      <File FileName="Transcode.TransitSystem\Main.cs" Line="22" Column="1" />
+      <File FileName="Transcode.TransitSystem\Code\Transcoder.cs" Line="54" Column="1" />
+      <File FileName="c:\Source\Transcode.TransitSystem\TestHarness\Main.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="TestHarness" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="Transcode.TransitSystem" expanded="True">
+            <Node name="Code" expanded="True">
+              <Node name="Transcoder.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Source\Transcode.TransitSystem\Transcode.TransitSystem\Main.cs" line="22" />
+      <Breakpoint file="C:\Source\Transcode.TransitSystem\Transcode.TransitSystem\Code\Transcoder.cs" line="50" />
+      <Breakpoint file="C:\Source\Transcode.TransitSystem\Transcode.TransitSystem\Code\Transcoder.cs" line="58" />
+      <Breakpoint file="C:\Source\Transcode.TransitSystem\Transcode.TransitSystem\Code\Transcoder.cs" line="63" />
+      <Breakpoint file="C:\Source\Transcode.TransitSystem\Transcode.TransitSystem\Code\Transcoder.cs" line="68" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
